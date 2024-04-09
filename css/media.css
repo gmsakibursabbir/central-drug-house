@@ -1,0 +1,20 @@
+@media (max-width: 768px) {
+    .waves {
+        height: 40px;
+        min-height: 40px;
+    }
+}
+@media (max-width: 1180px) {
+    .offcanvas {
+      width: 300px !important;
+    }
+    .offcanvas-start-lg {
+      top: 0;
+      right: 0;
+      border-right: 1px solid rgba(0, 0, 0, 0.2);
+      transform: translateX(100%);
+    }
+    header .nav-link{
+        color: #000000 !important;
+    }
+  }
